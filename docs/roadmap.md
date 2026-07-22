@@ -111,3 +111,6 @@ Status
 DA-006 — O RG Inspeções utilizará verde-bandeira como cor institucional principal, mantendo cores de status separadas da identidade visual.
 
 Aprovado
+
+
+Toda cor, espaçamento, raio, sombra e tipografia será controlado por variáveis CSS (Design Tokens). Nenhum valor fixo será usado diretamente nos componentes.
