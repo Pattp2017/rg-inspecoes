@@ -108,4 +108,6 @@ Somente Não Conforme exige:
 
 Status
 
+DA-006 — O RG Inspeções utilizará verde-bandeira como cor institucional principal, mantendo cores de status separadas da identidade visual.
+
 Aprovado
