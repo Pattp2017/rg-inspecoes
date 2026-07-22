@@ -1,1 +1,36 @@
+:root {
 
+    /* Identidade */
+
+    --cor-primaria: #1B5E20;
+    --cor-primaria-hover: #154A19;
+
+    /* Fundo */
+
+    --cor-fundo: #F5F7F5;
+    --cor-card: #FFFFFF;
+
+    /* Texto */
+
+    --cor-texto: #263238;
+    --cor-texto-secundario: #607D8B;
+
+    /* Bordas */
+
+    --cor-borda: #D7DDD7;
+
+    /* Status */
+
+    --status-ok: #2E7D32;
+    --status-alerta: #F9A825;
+    --status-erro: #C62828;
+
+    /* Sombras */
+
+    --sombra-card: 0 4px 12px rgba(0,0,0,.08);
+
+    /* Bordas */
+
+    --raio:16px;
+
+}
